@@ -1,0 +1,30 @@
+# Ignore build files and debug artifacts
+*.o
+*.d
+*.dSYM/
+*.exe
+*.out
+*.log
+main
+main2
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore ZIPs and archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Allow only specific folders 
+# !Assignment1_CPP/
+# !Assignment2_CPP/
+# !Assignment3_CPP/
+# !Assignment4_CPP/
+# !Assignment1_CPP/**
+# !Assignment2_CPP/**
+# !Assignment3_CPP/**
+# !Assignment4_CPP/**
+
